@@ -1,0 +1,116 @@
+[INFO ] 21-02-2022 09:39:41.892 TC001_VerifyUserLoggedIn - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:39:42.153 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 21-02-2022 09:39:42.329 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 21-02-2022 09:39:43.942 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 21-02-2022 09:39:44.351 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 21-02-2022 09:39:45.165 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:43:03.939 TC001_VerifyUserLoggedIn - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:43:04.184 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 21-02-2022 09:43:04.361 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 21-02-2022 09:43:06.014 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 21-02-2022 09:43:06.368 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 21-02-2022 09:43:07.258 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:43:09.854 TC002_VerifyApplicationTitle - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:43:09.865 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 21-02-2022 09:43:10.626 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:43:13.199 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:43:13.350 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 21-02-2022 09:43:13.544 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 21-02-2022 09:43:15.312 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 21-02-2022 09:43:15.381 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 21-02-2022 09:43:16.202 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:49:22.534 TC001_VerifyUserLoggedIn - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:49:22.762 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 21-02-2022 09:49:22.942 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 21-02-2022 09:49:24.676 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 21-02-2022 09:49:24.764 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 21-02-2022 09:49:25.716 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:49:28.504 TC002_VerifyApplicationTitle - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:49:28.515 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 21-02-2022 09:49:29.450 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:49:32.268 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is opened*****
+[INFO ] 21-02-2022 09:49:32.441 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 21-02-2022 09:49:32.589 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 21-02-2022 09:49:34.354 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 21-02-2022 09:49:34.421 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 21-02-2022 09:49:35.361 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:51:58.091 TC001_VerifyUserLoggedIn - *****Firefox Browser is launched successfully*****
+[INFO ] 21-02-2022 09:51:59.547 TC001_VerifyUserLoggedIn - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 21-02-2022 09:51:59.781 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 21-02-2022 09:51:59.893 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 21-02-2022 09:52:01.615 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 21-02-2022 09:52:01.764 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 21-02-2022 09:52:03.157 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:52:08.335 TC002_VerifyApplicationTitle - *****Firefox Browser is launched successfully*****
+[INFO ] 21-02-2022 09:52:09.889 TC002_VerifyApplicationTitle - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 21-02-2022 09:52:09.894 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 21-02-2022 09:52:11.023 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 21-02-2022 09:52:16.382 TC003_VerifyMyLeaveLinkDisplayed - *****Firefox Browser is launched successfully*****
+[INFO ] 21-02-2022 09:52:17.834 TC003_VerifyMyLeaveLinkDisplayed - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 21-02-2022 09:52:17.941 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 21-02-2022 09:52:18.024 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 21-02-2022 09:52:19.857 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 21-02-2022 09:52:19.919 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 21-02-2022 09:52:21.105 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:12:04.909 TC001_VerifyUserLoggedIn - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:12:05.808 TC001_VerifyUserLoggedIn - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:12:06.043 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 23-02-2022 08:12:06.222 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 23-02-2022 08:12:07.802 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 23-02-2022 08:12:07.873 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 23-02-2022 08:12:08.656 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:12:09.888 TC002_VerifyApplicationTitle - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:12:10.712 TC002_VerifyApplicationTitle - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:12:10.722 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 23-02-2022 08:12:11.576 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:12:12.782 TC003_VerifyMyLeaveLinkDisplayed - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:12:13.563 TC003_VerifyMyLeaveLinkDisplayed - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:12:13.722 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 23-02-2022 08:12:13.871 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 23-02-2022 08:12:15.386 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 23-02-2022 08:12:15.478 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 23-02-2022 08:12:16.245 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:39:48.532 TC001_VerifyUserLoggedIn - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:39:49.432 TC001_VerifyUserLoggedIn - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:39:49.699 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 23-02-2022 08:39:49.871 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 23-02-2022 08:39:50.934 TC001_VerifyUserLoggedIn - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:39:52.477 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 23-02-2022 08:39:52.730 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 23-02-2022 08:39:53.724 TC001_VerifyUserLoggedIn - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:39:54.552 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:39:56.274 TC002_VerifyApplicationTitle - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:39:57.137 TC002_VerifyApplicationTitle - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:39:57.162 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 23-02-2022 08:39:58.755 TC002_VerifyApplicationTitle - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:39:59.625 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:40:01.075 TC003_VerifyMyLeaveLinkDisplayed - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:40:02.084 TC003_VerifyMyLeaveLinkDisplayed - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:40:02.284 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 23-02-2022 08:40:02.480 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 23-02-2022 08:40:04.102 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 23-02-2022 08:40:04.363 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 23-02-2022 08:40:05.217 TC003_VerifyMyLeaveLinkDisplayed - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:40:06.036 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:57:11.849 TC001_VerifyUserLoggedIn - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:57:12.919 TC001_VerifyUserLoggedIn - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:57:13.145 TC001_VerifyUserLoggedIn - Username entered is - Admin
+[INFO ] 23-02-2022 08:57:13.307 TC001_VerifyUserLoggedIn - Password entered is - admin123
+[INFO ] 23-02-2022 08:57:14.283 TC001_VerifyUserLoggedIn - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:57:15.800 TC001_VerifyUserLoggedIn - Clicked on Login button
+[INFO ] 23-02-2022 08:57:15.903 TC001_VerifyUserLoggedIn - User logged in successfully
+[INFO ] 23-02-2022 08:57:16.918 TC001_VerifyUserLoggedIn - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:57:17.711 TC001_VerifyUserLoggedIn - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:57:19.291 TC002_VerifyApplicationTitle - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:57:20.233 TC002_VerifyApplicationTitle - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:57:20.248 TC002_VerifyApplicationTitle - Orange HRM application is opened
+[INFO ] 23-02-2022 08:57:21.600 TC002_VerifyApplicationTitle - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:57:22.391 TC002_VerifyApplicationTitle - *****Orange HRM application is closed*****
+[INFO ] 23-02-2022 08:57:23.733 TC003_VerifyMyLeaveLinkDisplayed - *****Chrome Browser is launched successfully*****
+[INFO ] 23-02-2022 08:57:24.681 TC003_VerifyMyLeaveLinkDisplayed - Orange HRM application is opened and the url is -https://opensource-demo.orangehrmlive.com/
+[INFO ] 23-02-2022 08:57:24.852 TC003_VerifyMyLeaveLinkDisplayed - Username entered is - Admin
+[INFO ] 23-02-2022 08:57:25.001 TC003_VerifyMyLeaveLinkDisplayed - Password entered is - admin123
+[INFO ] 23-02-2022 08:57:26.561 TC003_VerifyMyLeaveLinkDisplayed - User Logged in successfully
+[INFO ] 23-02-2022 08:57:26.650 TC003_VerifyMyLeaveLinkDisplayed - My Leave link is displayed on Dashboard Page
+[INFO ] 23-02-2022 08:57:27.630 TC003_VerifyMyLeaveLinkDisplayed - *****Screenshot captured successfully*****
+[INFO ] 23-02-2022 08:57:28.421 TC003_VerifyMyLeaveLinkDisplayed - *****Orange HRM application is closed*****

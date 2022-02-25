@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="20211" started-at="2022-02-24T01:39:45Z" finished-at="2022-02-24T01:40:06Z">
+    <groups>
+    </groups>
+    <test name="TC001_VerifyUserLoggedIn" duration-ms="8727" started-at="2022-02-24T01:39:45Z" finished-at="2022-02-24T01:39:54Z">
+      <class name="com.Orangehrm.testCases.TC001_VerifyUserLoggedIn">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Orangehrm.testCases.TC001_VerifyUserLoggedIn@17e93f1]" name="setup" is-config="true" duration-ms="3340" started-at="2022-02-24T01:39:46Z" finished-at="2022-02-24T01:39:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Orangehrm.testCases.TC001_VerifyUserLoggedIn@17e93f1]" name="loginTest" duration-ms="4278" started-at="2022-02-24T01:39:49Z" finished-at="2022-02-24T01:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Orangehrm.testCases.TC001_VerifyUserLoggedIn@17e93f1]" name="tearDown" is-config="true" duration-ms="806" started-at="2022-02-24T01:39:53Z" finished-at="2022-02-24T01:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Orangehrm.testCases.TC001_VerifyUserLoggedIn -->
+    </test> <!-- TC001_VerifyUserLoggedIn -->
+    <test name="TC002_VerifyApplicationTitle" duration-ms="4736" started-at="2022-02-24T01:39:54Z" finished-at="2022-02-24T01:39:59Z">
+      <class name="com.Orangehrm.testCases.TC002_VerifyApplicationTitle">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Orangehrm.testCases.TC002_VerifyApplicationTitle@1b4f2a9]" name="setup" is-config="true" duration-ms="2245" started-at="2022-02-24T01:39:54Z" finished-at="2022-02-24T01:39:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkApplicationTitleTest()[pri:0, instance:com.Orangehrm.testCases.TC002_VerifyApplicationTitle@1b4f2a9]" name="checkApplicationTitleTest" duration-ms="1618" started-at="2022-02-24T01:39:57Z" finished-at="2022-02-24T01:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkApplicationTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Orangehrm.testCases.TC002_VerifyApplicationTitle@1b4f2a9]" name="tearDown" is-config="true" duration-ms="868" started-at="2022-02-24T01:39:58Z" finished-at="2022-02-24T01:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Orangehrm.testCases.TC002_VerifyApplicationTitle -->
+    </test> <!-- TC002_VerifyApplicationTitle -->
+    <test name="TC003_VerifyMyLeaveLinkDisplayed" duration-ms="6364" started-at="2022-02-24T01:39:59Z" finished-at="2022-02-24T01:40:06Z">
+      <class name="com.Orangehrm.testCases.TC003_VerifyMyLeaveLinkDisplayed">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Orangehrm.testCases.TC003_VerifyMyLeaveLinkDisplayed@1fb0c0f]" name="setup" is-config="true" duration-ms="2409" started-at="2022-02-24T01:39:59Z" finished-at="2022-02-24T01:40:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkMyLeaveLinkDisplayedTest()[pri:0, instance:com.Orangehrm.testCases.TC003_VerifyMyLeaveLinkDisplayed@1fb0c0f]" name="checkMyLeaveLinkDisplayedTest" duration-ms="3133" started-at="2022-02-24T01:40:02Z" finished-at="2022-02-24T01:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMyLeaveLinkDisplayedTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Orangehrm.testCases.TC003_VerifyMyLeaveLinkDisplayed@1fb0c0f]" name="tearDown" is-config="true" duration-ms="819" started-at="2022-02-24T01:40:05Z" finished-at="2022-02-24T01:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Orangehrm.testCases.TC003_VerifyMyLeaveLinkDisplayed -->
+    </test> <!-- TC003_VerifyMyLeaveLinkDisplayed -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
